@@ -1,6 +1,6 @@
 <img src="./logo.png" alt="Project Logo" width="150" />
 
-# Fastest AutoClicker ⚡ [Terminal Version]
+# Fastest AutoClicker ⚡ [Terminal Style]
 
 ## Description
 
@@ -19,7 +19,6 @@ A simple terminal-based AutoClicker that toggles clicking with **F6** and lets y
 
 ## How to Use
 
-Run the script:
-
-```bash
-python autoclicker.py
+1. Run the `.exe` file.  
+2. Enter the desired CPS (Clicks Per Second).  
+3. Press `F6` to start or stop the AutoClicker.  
