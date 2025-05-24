@@ -1,2 +1,25 @@
-# auto-clicker
-This is an auto clicker that clicks in the max speed of 1000 CPS. Note: This CPS might crash some websites
+![Project Logo](./logo.png)
+
+# Fastest AutoClicker ⚡ [Terminal Version]
+
+## Description
+
+A simple terminal-based AutoClicker that toggles clicking with **F6** and lets you set clicks per second (CPS) live.
+
+---
+
+## Features
+
+- Toggle clicking ON/OFF with **F6** key  
+- Set CPS dynamically (1–1000) via terminal input  
+- No GUI — runs entirely in terminal  
+- Lightweight and effective  
+
+---
+
+## How to Use
+
+Run the script:
+
+```bash
+python autoclicker.py
