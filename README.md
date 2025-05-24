@@ -1,4 +1,4 @@
-![Project Logo](./logo.png)
+<img src="./logo.png" alt="Project Logo" width="150" />
 
 # Fastest AutoClicker ⚡ [Terminal Version]
 
